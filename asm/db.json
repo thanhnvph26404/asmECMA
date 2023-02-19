@@ -1,0 +1,86 @@
+{
+  "Infos": {
+    "id": 1,
+    "avt": "assets/img/profile-img.jpg",
+    "name": "Nguyễn Thành",
+    "birthday": "09/01/2003",
+    "job": "UI/UX Designer & Web Developer.",
+    "phone": "0867770873",
+    "city": "Hà Nội",
+    "age": "20",
+    "websites": "https://fullstack.edu.vn/",
+    "degree": "Master",
+    "email": "thanhnvph26404@gmail.com",
+    "description": "I am a frontend developer. I love programming and I will help you create beautiful and modern websites",
+    "img": "hsdhfhsf",
+    "technology": "html, css",
+    "date": "date",
+    "link": "link"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Home"
+    },
+    {
+      "name": "About",
+      "id": 2
+    },
+    {
+      "name": "Resume",
+      "id": 3
+    },
+    {
+      "name": "Portfolio",
+      "id": 4
+    },
+    {
+      "name": "Services",
+      "id": 5
+    },
+    {
+      "name": "Contact",
+      "id": 6
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "progress": 100
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "progress": 90
+    },
+    {
+      "id": 3,
+      "name": "JAVASCRIPT",
+      "progress": 75
+    },
+    {
+      "id": 4,
+      "name": "PHP",
+      "progress": 80
+    },
+    {
+      "id": 5,
+      "name": "WORDPRESS/CMS",
+      "progress": 90
+    },
+    {
+      "id": 6,
+      "name": "PHOTOSHOP",
+      "progress": 55
+    }
+  ],
+  "gallery": [
+    {
+      "gallery": [
+        "https://res.cloudinary.com/dddygcddq/image/upload/v1676817280/ECMA/rbzdr4vutxlpgxkinqes.png"
+      ],
+      "id": 1
+    }
+  ]
+}
